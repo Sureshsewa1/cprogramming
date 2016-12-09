@@ -2,7 +2,7 @@
 Subject: Programming Fundamental
 Roll No:
 Lab Sheet:
-Program: C program to print the largest number among two using if elseif ladder
+Program: C program to print the largest number among two using ternary
 Date: 09/12/2016
 */
 #include<stdio.h>
