@@ -2,7 +2,7 @@
 Subject: Programming Fundamental
 Roll No:
 Lab Sheet:
-Program: C program to print the largest number among three using ternary operator
+Program: C program to chech odd\even number among three using ternary operator
 Date: 09/12/2016
 */
 #include<stdio.h>
